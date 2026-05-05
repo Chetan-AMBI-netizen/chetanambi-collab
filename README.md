@@ -12,7 +12,7 @@ I'm Engineering  undergraduater in CSE branch<br>I'm currently  Solving a DSA pr
 ![](https://github-readme-stats.vercel.app/api?username=chetanambi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chetanambi-collab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs python programming /?username=chetanambi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
-<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/3af5d422-77be-42a4-8c87-73ef80ad68ce" />
+
 
 
 
