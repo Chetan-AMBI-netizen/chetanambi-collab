@@ -1,5 +1,7 @@
 HI THERE !
 # 💫 About Me:
+SSOC season 5[2026] Open-source Contributor.
+
 I'm Engineering  undergraduater in CSE branch<br>I'm currently  Solving a DSA problems on PYTHON<br> My social media accounts:-<br>             LINKEDIN(https://www.linkedin.com/in/chetan-ambiger-b6ba42380?)<br>   Reach out me at :-  1)chetanambiger0@gmail.com<br>                                        2) chetanambigerchetan@gmail.com
 
 
